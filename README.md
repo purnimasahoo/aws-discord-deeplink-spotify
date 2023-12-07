@@ -36,4 +36,11 @@ Additionally, you should have the necessary AWS SDK (boto3) installed. You can i
 
 
 pip install boto3
+
 Please adjust the code according to your specific use case and AWS setup.
+
+Efficient Navigation:
+
+Deeplinks provide a direct and efficient way to navigate to specific pages or functionalities within an application. In the context of test automation, this efficiency contributes to faster and more targeted test execution
+
+Usage of AWS SNS Topics enables the distribution of test results, events, or notifications to relevant stakeholders or systems.
